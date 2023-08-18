@@ -24,13 +24,15 @@ public class MainActivity extends AppCompatActivity {
                 startActivity(starterActivityIntent);
             }
         });
+
         menuCard.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
-                Intent starterActivityIntent = new Intent( MainActivity.this,Starter_Activity.class);
+                Intent starterActivityIntent = new Intent( MainActivity.this,MainCourses_Activity.class);
                 startActivity(starterActivityIntent);
             }
         });
+
 
 
     }

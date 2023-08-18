@@ -6,10 +6,10 @@
     android:gravity="center"
     xmlns:android="http://schemas.android.com/apk/res/android" >
 
-<!--  <TextView-->
-<!--      android:text="i_made_it_to_a_brand_new_activity"-->
-<!--      android:layout_width="wrap_content"-->
-<!--      android:layout_height="wrap_content"/>-->
+<!--&lt;!&ndash;  <TextView&ndash;&gt;-->
+<!--&lt;!&ndash;      android:text="i_made_it_to_a_brand_new_activity"&ndash;&gt;-->
+<!--&lt;!&ndash;      android:layout_width="wrap_content"&ndash;&gt;-->
+<!--&lt;!&ndash;      android:layout_height="wrap_content"/>&ndash;&gt;-->
   <ListView
       android:layout_width="match_parent"
       android:layout_height="match_parent"

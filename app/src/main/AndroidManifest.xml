@@ -17,6 +17,9 @@
             android:label="Starter"
             android:parentActivityName=".MainActivity"
             android:exported="false" />
+        <activity android:name=".MainCourses_Activity"
+            android:parentActivityName=".MainActivity"
+            />
         <activity
             android:name=".MainActivity"
             android:exported="true" >
